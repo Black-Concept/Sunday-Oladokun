@@ -1,7 +1,7 @@
 ### Hi there 👋, Sunday Oladokun
 #### Data Scientist
 
-(https://github.com/Black-Concept/Sunday-Oladokun/blob/main/Header.png)
+![I am GitHub Readme Generator's creator](https://github.com/Black-Concept/Sunday-Oladokun/blob/main/Header.png)
 
 My name is Sunday Oladokun, a data scientist based in Abuja.
 After spending over 3 years in visual and UI design, I decided to transition in the world of data science late 2023.
