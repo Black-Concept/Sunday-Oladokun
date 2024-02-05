@@ -1,14 +1,15 @@
-### Hi there 👋, Sunday Oladokun
-#### Data Scientist
-
 ![I am GitHub Readme Generator's creator](https://github.com/Black-Concept/Sunday-Oladokun/blob/main/Header.png)
+
+# Hi there 👋, Sunday Oladokun
+### Data Scientist
 
 My name is Sunday Oladokun, a data scientist based in Abuja.
 After spending over 3 years in visual and UI design, I decided to transition in the world of data science late 2023.
 
 I have since then moved from being just a student of this field to be a student leader as I currently serve as the president of school of data, Altschool Africa where I am currently pursuing a diploma in data science.
 
-Skills: Python (Numpy, Pandas, MatPlotLib, Seaborn)
+## Skills 
+Python (Numpy, Pandas, MatPlotLib, Seaborn)
 
 - 🌱 I’m currently learning Data Science At Altschool 
 - 👯 I’m looking to collaborate on Data Science Projects (Fintech and Health) 
