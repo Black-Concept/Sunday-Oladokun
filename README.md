@@ -1,6 +1,5 @@
-![I am GitHub Readme Generator's creator](https://github.com/Black-Concept/Sunday-Oladokun/blob/main/Header.png)
 
-# Hi there 👋, Sunday Oladokun
+# Hi there 👋, My Name Is Sunday Oladokun
 ### Data Scientist
 
 My name is Sunday Oladokun, a data scientist based in Abuja.
