@@ -8,8 +8,6 @@ I have been learning and working on projects that would better equip me with the
 
 Interestingly, I have been transforming ideas into captivating designs that are not only functional but also visually appealing for the past 3 years. I have had the opportunity to work with clients from both local and international backgrounds, which has allowed me to cultivate the essential skills needed to execute projects successfully. My diverse experience encompasses working in Design Agencies, Real Estate, Innovation and Technology Hubs, Edtech, and the Food and Delivery Business sectors.
 
-I currently serve as the president of school of data, Altschool Africa where I am currently pursuing a diploma in data science.
-
 ## Skills 
 Python (Numpy, Pandas, MatPlotLib, Seaborn)
 
